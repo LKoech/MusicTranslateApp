@@ -1,0 +1,19 @@
+# Web UI
+gradio
+
+# Deep Learning
+torch
+transformers
+
+# Speech-to-Text (Whisper via Transformers)
+accelerate
+
+# Text-to-Speech (Microsoft Edge TTS)
+edge-tts
+
+# Audio Processing
+librosa
+numpy
+
+# HTTP Requests
+requests
